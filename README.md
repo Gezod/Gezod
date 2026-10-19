@@ -1,148 +1,215 @@
 
-<!-- ===================== HERO ===================== -->
+<!--
+  REFANGGA LINTAR PRAYOGA
+  Personal GitHub Profile
+  Concept: ENGINEER THE INVISIBLE
+-->
 
 <div align="center">
 
-# 👋 Hey, I'm Refangga Lintar Prayoga
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101B35,100:00F5D4&height=180&section=header&text=REFANGGA%20LINTAR%20PRAYOGA&fontSize=30&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEER%20THE%20INVISIBLE&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Refangga Lintar Prayoga profile banner"/>
 
-### `Building digital solutions that solve real problems.`
+<br/>
 
-**Full Stack Web Developer · Information Systems Graduate · Tech Enthusiast**
+`FULL STACK DEVELOPER` &nbsp;·&nbsp; `SYSTEM THINKER` &nbsp;·&nbsp; `LIFELONG LEARNER`
 
-<p>
-  <a href="https://github.com/Gezod">
-    <img src="https://img.shields.io/badge/GitHub-Gezod-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/refangga-lintar-prayoga-2a473a318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://my-portofolio-refangga-lintar-prayo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+### I don't just write code. I engineer solutions.
 
-*Turning ideas, business needs, and complex workflows into practical digital experiences.*
+*From complex workflows to systems that simply work.*
+
+<br/>
+
+<a href="https://github.com/Gezod">
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-0A0A0A?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub"/>
+</a>
+<a href="https://my-portofolio-refangga-lintar-prayo.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-ENTER_MY_WORLD-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00F5D4" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/refangga-lintar-prayoga-2a473a318/">
+  <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F5D4" alt="LinkedIn"/>
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+```text
+> whoami
+```
 
-I'm an **Information Systems graduate from Telkom University Surabaya** with a strong interest in full stack development, information systems, and business process automation.
+## 01 / The Mind Behind the Code
 
-For me, software development is more than writing code. It's about understanding problems, designing the right solutions, and building applications that make everyday work simpler, more efficient, and reliable.
+I'm **Refangga Lintar Prayoga**, an Information Systems graduate from Telkom University Surabaya with a passion for building practical digital solutions.
 
-My main focus is **Laravel and PHP development**, supported by experience with relational databases, responsive interfaces, API integration, and software testing.
+I approach development from two perspectives: understanding the **problem behind the system** and engineering the **technology that solves it**.
 
-- 🏗️ **Build:** Web applications and business information systems.
-- ⚙️ **Improve:** Business workflows through digitalization and automation.
-- 🧪 **Validate:** Application functionality through testing and debugging.
-- 🌱 **Explore:** New technologies and better software engineering practices.
-- 🎯 **Goal:** Create maintainable software with meaningful real-world impact.
+My primary focus is Laravel and PHP web development, supported by experience in database management, responsive UI development, API integration, and software testing. I'm particularly interested in turning manual workflows into structured, reliable, and maintainable applications.
 
----
+```text
+THINK  →  DESIGN  →  BUILD  →  TEST  →  IMPROVE
+```
 
-## ⚡ My Tech Arsenal
-
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go" alt="Backend technologies"/>
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue" alt="Frontend technologies"/>
-</p>
-
-### Database, Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,postman" alt="Databases and development tools"/>
-</p>
-
-### Core Competencies
-
-`Full Stack Web Development` · `REST API Integration` · `Database Design` · `System Analysis` · `Software Testing` · `Business Process Automation`
+| WHAT I DO | WHY IT MATTERS |
+|:--|:--|
+| `BUILD` | Web applications and information systems |
+| `AUTOMATE` | Reduce repetitive work through digital solutions |
+| `ANALYZE` | Translate business needs into technical requirements |
+| `VALIDATE` | Test functionality and investigate defects |
+| `EVOLVE` | Learn, adapt, and improve engineering practices |
 
 ---
 
-## 🚀 Featured Project
-
-### 🏢 BSIS — Attendance & Payroll Management System
-
-**Digitizing employee attendance and payroll workflows through a web-based information system.**
-
-A practical information system developed to support attendance recording and payroll administration, with an emphasis on structured data, usability, and business requirements.
-
-**What I worked on**
-- Developed web application features using Laravel and PHP.
-- Implemented attendance and payroll management workflows.
-- Designed and managed relational database structures.
-- Built user interfaces with Bootstrap and JavaScript.
-- Worked across requirements analysis, implementation, testing, and deployment.
-
-**Built with:** `Laravel` `PHP` `MySQL/MariaDB` `Bootstrap` `JavaScript`
-
-<p>
-  <a href="https://github.com/Gezod/bsis-presensi-penggajian">
-    <img src="https://img.shields.io/badge/📂_Explore_Source_Code-181717?style=for-the-badge&logo=github" alt="Explore source code"/>
-  </a>
-  <a href="https://vyntra-bsis.cfd/">
-    <img src="https://img.shields.io/badge/🌐_Live_Application-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live application"/>
-  </a>
-</p>
-
----
-
-## 🧠 Beyond the Code
-
-I believe strong software comes from combining technical skills with the right mindset.
-
-| Focus | How I Apply It |
-|---|---|
-| 🔍 Problem Solving | Understand requirements before choosing a solution. |
-| 🧩 System Thinking | Connect application features, data, and business processes. |
-| 🧪 Quality Mindset | Test functionality, investigate issues, and improve reliability. |
-| 🤝 Integrity & Adaptability | Work responsibly and stay open to change and learning. |
-
----
-
-## 📚 Continuous Learning
-
-I'm committed to growing my skills through technical projects and structured learning, including:
-
-- **IBM Full Stack Software Developer** — professional development in full stack technologies.
-- **Digital Talent Academy** — web development and network administration training.
-- **Essential Skills** — adaptability, integrity at work, and digital transformation.
-
-*Credential titles should reflect the exact certificates earned and completed.*
-
----
-
-## 🎯 What I'm Looking For
-
-I'm interested in opportunities where I can contribute to real products, collaborate with other developers, and keep growing as a software engineer.
-
-**Areas of interest:**
-- Full Stack Developer
-- Laravel / PHP Developer
-- Web Application Developer
-- Information Systems & Business Automation
-
-If you're building something useful with technology, let's connect!
-
----
-
-## 🤝 Let's Build Something Meaningful
+## 02 / The Toolkit
 
 <div align="center">
 
-### `Ideas → Code → Solutions`
+### `01` — BUILD THE BACKEND
 
-<a href="https://my-portofolio-refangga-lintar-prayo.vercel.app/">Portfolio</a> ·
-<a href="https://linkedin.com/in/refangga-lintar-prayoga-2a473a318/">LinkedIn</a> ·
-<a href="mailto:YOUR_EMAIL@example.com">Email Me</a>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go&theme=dark" alt="PHP, Laravel, Node.js and Go"/>
 
-**Thanks for stopping by! ⭐ Explore my repositories and follow the journey.**
+### `02` — CRAFT THE EXPERIENCE
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap and Vue.js"/>
+
+### `03` — ENGINEER THE DATA
+
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,postgres,mongodb&theme=dark" alt="MySQL, MariaDB, PostgreSQL and MongoDB"/>
+
+### `04` — SHIP & COLLABORATE
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="Git, GitHub, Docker and Postman"/>
+
+</div>
+
+**Core disciplines**
+
+`Full Stack Development` · `REST APIs` · `Database Design` · `System Analysis` · `Software Testing` · `Business Process Automation`
+
+---
+
+## 03 / Proof of Work
+
+<div align="center">
+
+### 🏢 BSIS
+### Attendance & Payroll Management System
+
+**A real-world information system built around operational needs.**
+
+</div>
+
+The BSIS project focuses on digitizing employee attendance and payroll administration. It brings application development, relational data management, and business workflow requirements into one web-based system.
+
+**Engineering contributions**
+
+- Developed application features using Laravel and PHP.
+- Implemented attendance and payroll administration workflows.
+- Designed relational database structures using MySQL/MariaDB.
+- Built responsive interfaces with Bootstrap and JavaScript.
+- Worked on requirements analysis, implementation, testing, and deployment.
+
+**Technology stack**
+
+`Laravel` `PHP` `MySQL/MariaDB` `Bootstrap` `JavaScript`
+
+<div align="center">
+
+<a href="https://github.com/Gezod/bsis-presensi-penggajian">
+  <img src="https://img.shields.io/badge/01_SOURCE_CODE-00F5D4?style=for-the-badge&logo=github&logoColor=050816" alt="View source code"/>
+</a>
+<a href="https://vyntra-bsis.cfd/">
+  <img src="https://img.shields.io/badge/02_LIVE_APPLICATION-101B35?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Open live application"/>
+</a>
+
+</div>
+
+---
+
+## 04 / The Engineering Mindset
+
+> Good software isn't just about what it can do. It's about the problem it solves, the people it helps, and how reliably it works.
+
+<details>
+<summary><b>🔍 Problem First</b> — Understand before implementing</summary>
+<br/>
+I value requirements analysis and understanding the actual workflow before deciding how to implement a solution.
+</details>
+
+<details>
+<summary><b>🧩 Systems Thinking</b> — Connect the moving parts</summary>
+<br/>
+I consider how application features, database structures, user interactions, and business processes work together.
+</details>
+
+<details>
+<summary><b>🧪 Quality by Design</b> — Make reliability part of the process</summary>
+<br/>
+Testing, debugging, and validation help identify problems early and improve confidence in application behavior.
+</details>
+
+<details>
+<summary><b>🌱 Adaptability & Integrity</b> — Keep learning, stay accountable</summary>
+<br/>
+I value continuous learning, openness to change, professional responsibility, and integrity in the way technology is developed and used.
+</details>
+
+---
+
+## 05 / The Learning Loop
+
+Technology never stands still, and neither should a developer.
+
+**Professional development includes:**
+
+- **IBM Full Stack Software Developer** — full stack technology learning.
+- **Digital Talent Academy** — web development and network administration training.
+- **Essential Skills** — adaptability, integrity at work, and digital transformation.
+
+*Listed programs reflect my learning journey; individual credentials are subject to the certificates actually earned.*
+
+```text
+LEARN SOMETHING
+      ↓
+BUILD SOMETHING
+      ↓
+BREAK SOMETHING
+      ↓
+UNDERSTAND WHY
+      ↓
+BUILD IT BETTER
+      ↺
+```
+
+---
+
+## 06 / The Next Chapter
+
+I'm interested in opportunities where I can contribute to useful products, solve real technical challenges, and grow alongside a collaborative engineering team.
+
+**Open to exploring roles in:**
+
+- Full Stack Development
+- Laravel / PHP Development
+- Web Application Development
+- Information Systems & Business Automation
+
+If your team values thoughtful engineering and practical problem-solving, I'd love to connect.
+
+<div align="center">
+
+### LET'S BUILD WHAT MATTERS.
+
+<a href="https://my-portofolio-refangga-lintar-prayo.vercel.app/">
+  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-00F5D4?style=for-the-badge&logo=vercel&logoColor=050816" alt="Explore portfolio"/>
+</a>
+<a href="https://linkedin.com/in/refangga-lintar-prayoga-2a473a318/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-101B35?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+`BETTER SYSTEMS → BETTER WORKFLOWS → BETTER OUTCOMES`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:101B35,100:050816&height=100&section=footer" width="100%" alt="Decorative footer banner"/>
 
 </div>
