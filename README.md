@@ -1,79 +1,148 @@
 
-# Hi there, I'm Refangga Lintar Prayoga 👋
+<!-- ===================== HERO ===================== -->
 
-### 💻 Full Stack Web Developer | Information Systems Graduate
+<div align="center">
 
-I'm an Information Systems graduate from **Telkom University Surabaya**, passionate about building web applications, information systems, and digital solutions that solve real-world business problems.
+# 👋 Hey, I'm Refangga Lintar Prayoga
 
-I focus on **Laravel-based web development**, database management, API integration, and business process automation. I enjoy turning business requirements into functional, maintainable, and user-friendly applications.
+### `Building digital solutions that solve real problems.`
 
-- 🔭 **Working on:** Web development, information systems, and software testing projects.
-- 🌱 **Currently learning:** Backend development, API integration, software engineering practices, and application testing.
-- 💼 **Interested in:** Full Stack Developer, Laravel Developer, PHP Developer, and Web Developer opportunities.
-- 🛠️ **Core strengths:** Laravel, PHP, JavaScript, MySQL, Bootstrap, and REST APIs.
-- 🧪 **Also interested in:** Software testing, system analysis, and business process automation.
-- 📫 **Reach me:** Connect with me through [LinkedIn](https://linkedin.com/in/refangga-lintar-prayoga-2a473a318/).
+**Full Stack Web Developer · Information Systems Graduate · Tech Enthusiast**
+
+<p>
+  <a href="https://github.com/Gezod">
+    <img src="https://img.shields.io/badge/GitHub-Gezod-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/refangga-lintar-prayoga-2a473a318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://my-portofolio-refangga-lintar-prayo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+*Turning ideas, business needs, and complex workflows into practical digital experiences.*
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🧑‍💻 About Me
 
-### Languages & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+I'm an **Information Systems graduate from Telkom University Surabaya** with a strong interest in full stack development, information systems, and business process automation.
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+For me, software development is more than writing code. It's about understanding problems, designing the right solutions, and building applications that make everyday work simpler, more efficient, and reliable.
+
+My main focus is **Laravel and PHP development**, supported by experience with relational databases, responsive interfaces, API integration, and software testing.
+
+- 🏗️ **Build:** Web applications and business information systems.
+- ⚙️ **Improve:** Business workflows through digitalization and automation.
+- 🧪 **Validate:** Application functionality through testing and debugging.
+- 🌱 **Explore:** New technologies and better software engineering practices.
+- 🎯 **Goal:** Create maintainable software with meaningful real-world impact.
+
+---
+
+## ⚡ My Tech Arsenal
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go" alt="Backend technologies"/>
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue" alt="Frontend technologies"/>
+</p>
+
+### Database, Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,postman" alt="Databases and development tools"/>
+</p>
+
+### Core Competencies
+
+`Full Stack Web Development` · `REST API Integration` · `Database Design` · `System Analysis` · `Software Testing` · `Business Process Automation`
 
 ---
 
 ## 🚀 Featured Project
 
-### 🏢 BSIS Attendance & Payroll Management System
+### 🏢 BSIS — Attendance & Payroll Management System
 
-A web-based information system designed to support employee attendance tracking and payroll management.
+**Digitizing employee attendance and payroll workflows through a web-based information system.**
 
-- Developed using Laravel and PHP.
-- Implemented attendance and payroll management features.
-- Designed and managed relational databases.
-- Built responsive user interfaces with Bootstrap.
-- Worked on requirements analysis, development, testing, and deployment.
+A practical information system developed to support attendance recording and payroll administration, with an emphasis on structured data, usability, and business requirements.
 
-**Tech Stack:** Laravel, PHP, MySQL/MariaDB, Bootstrap, JavaScript
+**What I worked on**
+- Developed web application features using Laravel and PHP.
+- Implemented attendance and payroll management workflows.
+- Designed and managed relational database structures.
+- Built user interfaces with Bootstrap and JavaScript.
+- Worked across requirements analysis, implementation, testing, and deployment.
 
-🔗 [Source Code](https://github.com/Gezod/bsis-presensi-penggajian) | [Live Application](https://vyntra-bsis.cfd/)
+**Built with:** `Laravel` `PHP` `MySQL/MariaDB` `Bootstrap` `JavaScript`
 
----
-
-## 📚 Certifications & Learning
-
-- IBM Full Stack Software Developer Professional Certificate
-- Full-Stack Development — Digital Talent Academy
-- Front-End & Back-End Development — Digital Talent Academy
-- Assistant Web Developer Training — Digital Talent Academy
-- Associate Network Administrator Training — Digital Talent Academy
-- Essential Skills: Digital Disruption & Transformation
-- Essential Skills: Adaptability
-- Essential Skills: Integrity at Work
+<p>
+  <a href="https://github.com/Gezod/bsis-presensi-penggajian">
+    <img src="https://img.shields.io/badge/📂_Explore_Source_Code-181717?style=for-the-badge&logo=github" alt="Explore source code"/>
+  </a>
+  <a href="https://vyntra-bsis.cfd/">
+    <img src="https://img.shields.io/badge/🌐_Live_Application-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live application"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🧠 Beyond the Code
 
-- 🌐 **Portfolio:** [Visit My Portfolio](https://my-portofolio-refangga-lintar-prayo.vercel.app/)
-- 💼 **LinkedIn:** [Refangga Lintar Prayoga](https://linkedin.com/in/refangga-lintar-prayoga-2a473a318/)
-- 🐙 **GitHub:** [@Gezod](https://github.com/Gezod)
+I believe strong software comes from combining technical skills with the right mindset.
+
+| Focus | How I Apply It |
+|---|---|
+| 🔍 Problem Solving | Understand requirements before choosing a solution. |
+| 🧩 System Thinking | Connect application features, data, and business processes. |
+| 🧪 Quality Mindset | Test functionality, investigate issues, and improve reliability. |
+| 🤝 Integrity & Adaptability | Work responsibly and stay open to change and learning. |
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+## 📚 Continuous Learning
+
+I'm committed to growing my skills through technical projects and structured learning, including:
+
+- **IBM Full Stack Software Developer** — professional development in full stack technologies.
+- **Digital Talent Academy** — web development and network administration training.
+- **Essential Skills** — adaptability, integrity at work, and digital transformation.
+
+*Credential titles should reflect the exact certificates earned and completed.*
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm interested in opportunities where I can contribute to real products, collaborate with other developers, and keep growing as a software engineer.
+
+**Areas of interest:**
+- Full Stack Developer
+- Laravel / PHP Developer
+- Web Application Developer
+- Information Systems & Business Automation
+
+If you're building something useful with technology, let's connect!
+
+---
+
+## 🤝 Let's Build Something Meaningful
+
+<div align="center">
+
+### `Ideas → Code → Solutions`
+
+<a href="https://my-portofolio-refangga-lintar-prayo.vercel.app/">Portfolio</a> ·
+<a href="https://linkedin.com/in/refangga-lintar-prayoga-2a473a318/">LinkedIn</a> ·
+<a href="mailto:YOUR_EMAIL@example.com">Email Me</a>
+
+**Thanks for stopping by! ⭐ Explore my repositories and follow the journey.**
+
+</div>
