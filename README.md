@@ -74,9 +74,9 @@ My core experience centers on **PHP, Laravel, relational databases, responsive i
 
 ### DATA & STORAGE
 
-<img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" alt="MySQL and MariaDB"/>
+<img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=light" alt="MySQL and MariaDB"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="PostgreSQL and MongoDB"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=light" alt="PostgreSQL and MongoDB"/>
 
 <sub>Relational databases · Data modeling · Database integration</sub>
 
